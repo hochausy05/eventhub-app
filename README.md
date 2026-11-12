@@ -1,6 +1,6 @@
 # EventHub
 
-EventHub là ứng dụng Flutter khám phá sự kiện và quản lý vé điện tử. **Demo v0.1** khởi tạo nền tảng đa nền tảng và ba màn hình điều hướng để giảng viên xem trước.
+EventHub là ứng dụng Flutter khám phá sự kiện và quản lý vé điện tử. **Demo v0.1** khởi tạo nền tảng đa nền tảng.
 
 ## Công nghệ
 
